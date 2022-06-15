@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>P8</StartupObject>
+    <StartupObject>Csharpa.P13</StartupObject>
   </PropertyGroup>
 
 </Project>
