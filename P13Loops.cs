@@ -22,6 +22,8 @@ namespace Csharpa
 
           //  }
 
+            //For loop
+
             int[] vs = new int[] {1,2,3,4};
 
             for(int i=0; i<vs.Length; i++)
@@ -31,6 +33,14 @@ namespace Csharpa
             }
 
 
+            //Foreach loop-- for each loop is used to iterate over the collections
+            //helps out of range exceptions
+
+            foreach(int i in vs)
+            {
+
+                Console.WriteLine(i);
+            }
 
         }
 
